@@ -45,4 +45,4 @@ Optimize the portfolio website to ensure it runs efficiently, loads quickly, and
 The optimization process significantly improved website loading speed, reduced resource usage, and enhanced overall performance, providing a smoother user experience.
 
 ---
-**Author:** Amar Deep
+**Author:** Amar Deep Jha
